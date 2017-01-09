@@ -20,6 +20,7 @@ This number is "12af3" in the other base.
 ```
 
 **Base 16 to 10**
+```
 Please enter your number: 
 12af3
 Please enter the base of that number: 
@@ -27,8 +28,10 @@ Please enter the base of that number:
 Please enter the base that you'd like to convert to: 
 10
 This number is "76531" in the other base.
+```
 
 **Base 10 to 60 (Illegal base)**
+```
 Please enter your number: 
 8373627949
 Please enter the base of that number: 
@@ -36,8 +39,10 @@ Please enter the base of that number:
 Please enter the base that you'd like to convert to: 
 60
 One of your bases is either too large or too small! Please try again.
+```
 
 **Base 10 to 2.**
+```
 Please enter your number: 
 1148473874
 Please enter the base of that number: 
