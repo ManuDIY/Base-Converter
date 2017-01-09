@@ -5,7 +5,7 @@ Base converter is a program used to read in a number from a user and convert it 
 This program supports bases between 2 and 35. And error will be thrown if a desired base is provided outside of that range.
 
 
-Sample Output:
+##Sample Output:
 
 
 **Base 10 to 16.**
@@ -30,6 +30,17 @@ Please enter the base that you'd like to convert to:
 This number is "76531" in the other base.
 ```
 
+**Base 10 to 2.**
+```
+Please enter your number: 
+1148473874
+Please enter the base of that number: 
+10
+Please enter the base that you'd like to convert to: 
+2
+This number is "1000100011101000101001000010010" in the other base.
+```
+
 **Base 10 to 60 (Illegal base)**
 ```
 Please enter your number: 
@@ -41,13 +52,3 @@ Please enter the base that you'd like to convert to:
 One of your bases is either too large or too small! Please try again.
 ```
 
-**Base 10 to 2.**
-```
-Please enter your number: 
-1148473874
-Please enter the base of that number: 
-10
-Please enter the base that you'd like to convert to: 
-2
-This number is "1000100011101000101001000010010" in the other base.
-```
