@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConvertBases()
+comment0.text=\r\n\ Basic\ base\ constructor.\ Doesn't\ call\ anything.\r\n
+comment1.params=s
+comment1.target=ConvertBases(java.lang.String)
+comment1.text=\r\n\ This\ constructor\ takes\ the\ string\ input.\r\n\ \r\n\ @param\ String\r\n\ \ \ \ \ \ \ \ \ \ \ \ of\ a\ number\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ This\ method\ calls\ the\ other\ methods.\r\n\ \r\n\ @param\ String\r\n\ \ \ \ \ \ \ \ \ \ \ \ []\ args\r\n
+comment3.params=
+comment3.target=void\ readInt()
+comment3.text=\r\n\ This\ method\ will\ take\ the\ values\ needed,\ convert\ them,\ and\ \r\n\ print\ out\ the\ converted\ values.\ \r\n
+comment4.params=s\ base\ convertbase
+comment4.target=java.lang.String\ convertToBase(java.lang.String,\ int,\ int)
+comment4.text=\r\n\ converToBase\ method\ will\ take\ the\ string\ and\ the\ base\ of\ the\ string\ and\r\n\ convert\ it\ to\ the\ base\ that\ it's\ asking\ for.\r\n\ \r\n\ @param\ String\r\n\ \ \ \ \ \ \ \ \ \ \ \ s\ ,\ int\ base,\ int\ convertbase.\r\n
+numComments=5
