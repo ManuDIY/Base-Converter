@@ -1,11 +1,11 @@
-#Base Converter
+# Base Converter
 
 Base converter is a program used to read in a number from a user and convert it to a different base. 
 
 This program supports bases between 2 and 35. And error will be thrown if a desired base is provided outside of that range.
 
 
-##Sample Output:
+## Sample Output:
 
 
 **Base 10 to 16.**
